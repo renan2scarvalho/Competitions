@@ -8,4 +8,6 @@ The data was collected through surveys by [Kathmandu Living Labs](http://www.kat
 
 ### PRIMARY EVALUATION METRIC
 The metric used for this competition is the micro-averaged F1 score:
-F_{micro} = \frac{2 \cdot P_{micro} \cdot R_{micro}}{P_{micro} + R_{micro}}
+![image](https://user-images.githubusercontent.com/63553829/99469572-cc1c5300-2921-11eb-876a-cb50b52c1a43.png)
+
+
